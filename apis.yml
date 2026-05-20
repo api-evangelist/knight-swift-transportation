@@ -28,6 +28,8 @@ apis:
     description: >-
       The Knight-Swift Transportation API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/knight-swift-transportation-holdings-inc
   - type: Website
     url: https://www.knight-swift.com
 maintainers:
