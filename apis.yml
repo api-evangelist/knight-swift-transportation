@@ -2,7 +2,7 @@ aid: knight-swift-transportation
 url: https://raw.githubusercontent.com/api-evangelist/knight-swift-transportation/refs/heads/main/apis.yml
 name: Knight-Swift Transportation
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Trucking
   - Transportation
@@ -19,7 +19,7 @@ apis:
       - Trucking
       - Transportation
       - Logistics
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://api.knight-swift.com
     humanURL: https://developer.knight-swift.com
     properties:
