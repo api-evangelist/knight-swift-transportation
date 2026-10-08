@@ -51,6 +51,12 @@ apis:
     description: >-
       The Knight-Swift Transportation API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: Plans
+    url: plans/knight-swift-transportation-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/knight-swift-transportation-rate-limits.yml
+  - type: FinOps
+    url: finops/knight-swift-transportation-finops.yml
   - type: DomainSecurity
     url: security/knight-swift-transportation-domain-security.yml
   - type: LinkedIn
